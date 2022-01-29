@@ -1,0 +1,48 @@
+baseURL = "https://nucleus-zero.com/"
+languageCode = "en-us"
+theme = "nucleus-zero"
+summaryLength = 25
+copyright = "Nucleus Zero 2022 - All rights reserved"
+enableEmoji = true
+publishDir = "public"
+# disqusShortname = "your-shortname-here"
+# googleAnalytics = "UA-1XXXXXXX1-1"
+# blog
+
+[permalinks]
+  '/blog' = ':slug/'
+
+[params]
+  logo = "/images/logo.png"
+# mailchimpURL = "//my-account.mailchimp.com/my-subscriber-url"
+
+[params.author]
+  name = "Mark Curphey"
+  thumbnail = "/images/author.png"
+  description = "Creator of this blog."
+
+[params.index]
+title = "Malicious code and the cyber security supply chain."
+  subtitle = '''
+  A personal blog by Mark Curphey.
+'''
+
+[params.social]
+  github = "nucleus-zero"
+  twitter = "nucleus-zero"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about"
+
+# SEO settings
+    enableRobotsTXT = true
+    canonifyURLs = true
