@@ -2,51 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rebl-website.web.app/</loc>
+    <loc>https://nucleus-zero.github.io/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/blog/</loc>
+    <loc>https://nucleus-zero.github.io/blog/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/tags/drink/</loc>
+    <loc>https://nucleus-zero.github.io/tags/drink/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/tags/interesting/</loc>
+    <loc>https://nucleus-zero.github.io/tags/interesting/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/blog/ninth/</loc>
+    <loc>https://nucleus-zero.github.io/slug9/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/tags/</loc>
+    <loc>https://nucleus-zero.github.io/tags/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/blog/eighth/</loc>
+    <loc>https://nucleus-zero.github.io/slug8/</loc>
     <lastmod>2018-10-07T11:40:11+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/blog/seventh/</loc>
+    <loc>https://nucleus-zero.github.io/slug7/</loc>
     <lastmod>2018-10-07T11:39:29+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/blog/sixth/</loc>
+    <loc>https://nucleus-zero.github.io/sixthish/</loc>
     <lastmod>2018-10-07T11:39:25+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/blog/fifth/</loc>
+    <loc>https://nucleus-zero.github.io/slug5/</loc>
     <lastmod>2018-10-07T11:39:22+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/blog/fourth/</loc>
+    <loc>https://nucleus-zero.github.io/slug4/</loc>
     <lastmod>2018-10-07T11:39:16+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/tags/sca/</loc>
+    <loc>https://nucleus-zero.github.io/tags/sca/</loc>
     <lastmod>2018-10-07T11:39:13+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/blog/third/</loc>
+    <loc>https://nucleus-zero.github.io/slug3/</loc>
     <lastmod>2018-10-07T11:39:13+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/blog/second/</loc>
+    <loc>https://nucleus-zero.github.io/slug2/</loc>
     <lastmod>2018-10-07T11:39:10+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/blog/first/</loc>
+    <loc>https://nucleus-zero.github.io/slug1/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
   </url><url>
-    <loc>https://rebl-website.web.app/categories/</loc>
+    <loc>https://nucleus-zero.github.io/categories/</loc>
+  </url><url>
+    <loc>https://nucleus-zero.github.io/about/</loc>
   </url>
 </urlset>

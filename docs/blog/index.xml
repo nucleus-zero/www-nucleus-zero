@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on </title>
-    <link>https://rebl-website.web.app/blog/</link>
+    <link>https://nucleus-zero.github.io/blog/</link>
     <description>Recent content in Blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Rebl Security 2022 - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate><atom:link href="https://rebl-website.web.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Nucleus Zero 2022 - All rights reserved</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate><atom:link href="https://nucleus-zero.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ninth</title>
-      <link>https://rebl-website.web.app/blog/ninth/</link>
+      <link>https://nucleus-zero.github.io/slug9/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://rebl-website.web.app/blog/ninth/</guid>
+      <guid>https://nucleus-zero.github.io/slug9/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Eighth</title>
-      <link>https://rebl-website.web.app/blog/eighth/</link>
+      <link>https://nucleus-zero.github.io/slug8/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
       
-      <guid>https://rebl-website.web.app/blog/eighth/</guid>
+      <guid>https://nucleus-zero.github.io/slug8/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
-      <title>Seventh</title>
-      <link>https://rebl-website.web.app/blog/seventh/</link>
+      <title>Seventhy</title>
+      <link>https://nucleus-zero.github.io/slug7/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:29 +0200</pubDate>
       
-      <guid>https://rebl-website.web.app/blog/seventh/</guid>
+      <guid>https://nucleus-zero.github.io/slug7/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
-      <title>Sixth</title>
-      <link>https://rebl-website.web.app/blog/sixth/</link>
+      <title>Sixthish</title>
+      <link>https://nucleus-zero.github.io/sixthish/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
       
-      <guid>https://rebl-website.web.app/blog/sixth/</guid>
+      <guid>https://nucleus-zero.github.io/sixthish/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Fifth</title>
-      <link>https://rebl-website.web.app/blog/fifth/</link>
+      <link>https://nucleus-zero.github.io/slug5/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
       
-      <guid>https://rebl-website.web.app/blog/fifth/</guid>
+      <guid>https://nucleus-zero.github.io/slug5/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Fourth</title>
-      <link>https://rebl-website.web.app/blog/fourth/</link>
+      <link>https://nucleus-zero.github.io/slug4/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
       
-      <guid>https://rebl-website.web.app/blog/fourth/</guid>
+      <guid>https://nucleus-zero.github.io/slug4/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Third</title>
-      <link>https://rebl-website.web.app/blog/third/</link>
+      <link>https://nucleus-zero.github.io/slug3/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
       
-      <guid>https://rebl-website.web.app/blog/third/</guid>
+      <guid>https://nucleus-zero.github.io/slug3/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://rebl-website.web.app/blog/second/</link>
+      <link>https://nucleus-zero.github.io/slug2/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
       
-      <guid>https://rebl-website.web.app/blog/second/</guid>
+      <guid>https://nucleus-zero.github.io/slug2/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://rebl-website.web.app/blog/first/</link>
+      <link>https://nucleus-zero.github.io/slug1/</link>
       <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
       
-      <guid>https://rebl-website.web.app/blog/first/</guid>
+      <guid>https://nucleus-zero.github.io/slug1/</guid>
       <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     

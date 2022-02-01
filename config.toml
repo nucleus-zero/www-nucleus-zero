@@ -4,7 +4,7 @@ theme = "nucleus-zero"
 summaryLength = 25
 copyright = "Nucleus Zero 2022 - All rights reserved"
 enableEmoji = true
-publishDir = "public"
+publishDir = "docs"
 # disqusShortname = "your-shortname-here"
 # googleAnalytics = "UA-1XXXXXXX1-1"
 # blog
