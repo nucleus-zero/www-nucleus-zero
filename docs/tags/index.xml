@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://nucleus-zero.github.io/tags/</link>
+    <link>nucleus-zero.github.io/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Nucleus Zero 2022 - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate><atom:link href="https://nucleus-zero.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate><atom:link href="nucleus-zero.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>drink</title>
-      <link>https://nucleus-zero.github.io/tags/drink/</link>
+      <link>nucleus-zero.github.io/tags/drink/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://nucleus-zero.github.io/tags/drink/</guid>
+      <guid>nucleus-zero.github.io/tags/drink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>interesting</title>
-      <link>https://nucleus-zero.github.io/tags/interesting/</link>
+      <link>nucleus-zero.github.io/tags/interesting/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://nucleus-zero.github.io/tags/interesting/</guid>
+      <guid>nucleus-zero.github.io/tags/interesting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SCA</title>
-      <link>https://nucleus-zero.github.io/tags/sca/</link>
+      <link>nucleus-zero.github.io/tags/sca/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
       
-      <guid>https://nucleus-zero.github.io/tags/sca/</guid>
+      <guid>nucleus-zero.github.io/tags/sca/</guid>
       <description></description>
     </item>
     
