@@ -1,4 +1,4 @@
-baseURL = "https://nucleus-zero.com/"
+baseURL = "https://nucleus-zero.github.io"
 languageCode = "en-us"
 theme = "nucleus-zero"
 summaryLength = 25
