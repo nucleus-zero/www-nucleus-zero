@@ -1,4 +1,3 @@
-touch to test build
 
 # nucleus-zero website
 
@@ -13,7 +12,7 @@ hugo serve
 
 hugo -D regenerates output HTML
 
-Deploy
+## deploy
 
 npm install -g firebase-tools
 
@@ -24,4 +23,4 @@ firebase login
 "hugo && firebase deploy" to deploy
 
 
-Customizing theme
+## Customizing theme
