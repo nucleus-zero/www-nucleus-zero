@@ -13,7 +13,6 @@ hugo serve
 
 hugo -D regenerates output HTML
 
-
 Deploy
 
 npm install -g firebase-tools
