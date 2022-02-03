@@ -1,4 +1,4 @@
-baseURL = "https://nucleus-zero-blog.web.app/"
+baseURL = "nucleus-zero.github.io"
 languageCode = "en-us"
 theme = "nucleus-zero"
 summaryLength = 25
@@ -24,12 +24,12 @@ publishDir = "public"
 [params.index]
 title = "Malicious code in the software supply chain."
   subtitle = '''
-A blog about how malicious code and malware gets into the software supply chain, executes inside devops pipelines and finds its way into production. It is how hackers are infiltrating the cloud, stealing data, planting backdoors, running bitcoining mining operations, holding companies to ransom and much, much more.
+A blog about how malicious code and malware gets into the software supply chain, runs inside of companies devops pipelines and finds its way into production, allowing hackers to steal data, plant backdoors, hold companies to ransom, run bitcoining mining operations and much, much more.
 '''
 
 [params.social]
   github = "nucleus-zero"
-  twitter = "nucleuszero"
+  twitter = "nucleus-zero"
 
 ## Main Menu
 [[menu.main]]
