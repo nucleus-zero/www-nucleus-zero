@@ -1,12 +1,12 @@
-baseURL = "nucleus-zero.github.io"
+baseURL = "https://nucleus-zero-blog.web.app/"
 languageCode = "en-us"
 theme = "nucleus-zero"
 summaryLength = 25
 copyright = "Nucleus Zero 2022 - All rights reserved"
 enableEmoji = true
-publishDir = "docs"
+publishDir = "public"
 # disqusShortname = "your-shortname-here"
-# googleAnalytics = "UA-1XXXXXXX1-1"
+googleAnalytics = "UA-1XXXXXXX1-1"
 # blog
 
 [permalinks]
@@ -17,19 +17,18 @@ publishDir = "docs"
 # mailchimpURL = "//my-account.mailchimp.com/my-subscriber-url"
 
 [params.author]
-  name = "Mark Curphey"
+  name = "James Bond"
   thumbnail = "/images/author.png"
   description = "Creator of this blog."
 
 [params.index]
-title = "Malicious code and the cyber security supply chain."
+title = "Malicious code in the software supply chain."
   subtitle = '''
-  A personal blog by Mark Curphey.
 '''
 
 [params.social]
   github = "nucleus-zero"
-  twitter = "nucleus-zero"
+  twitter = "nucleuszero"
 
 ## Main Menu
 [[menu.main]]
