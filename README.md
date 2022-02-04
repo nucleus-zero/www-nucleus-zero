@@ -1,26 +1,25 @@
 
 # nucleus-zero website
 
-Clone and Run
+## Clone and Run
 
-brew install npm
-brew install hugo
+`brew install npm hugo`
 
 clone this repo
 
-hugo serve
+`hugo serve`
 
-hugo -D regenerates output HTML
+`hugo -D` regenerates output HTML
 
-## deploy
+## Deploy
 
-npm install -g firebase-tools
+`npm install -g firebase-tools`
 
 login to your firebase account
 
-firebase login
+`firebase login`
 
-"hugo && firebase deploy" to deploy
+`hugo && firebase deploy` to deploy
 
 
 ## Customizing theme
