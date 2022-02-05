@@ -12,7 +12,7 @@
         </header>
 
         <section class="text-center">
-              {{- partial "_shared/subscribe.html" . -}}
+            {{- partial "_shared/subscribe.html" . -}}
             {{ with .Site.Params.index.subtitle }}
             <h3 class="index-sub">{{ . }}</h3>
             {{ end }}
@@ -22,7 +22,9 @@
         </section>
     </div>
 
-    {{- partial "_shared/social.html" . -}}
+
+        {{- partial "_shared/social.html" . -}}
+</div>
     {{ if isset .Site.Params.index "alertbar" }}
     	{{ if .Site.Params.index.alertbar }}
             {{- partial "_shared/alertbar.html" . -}}

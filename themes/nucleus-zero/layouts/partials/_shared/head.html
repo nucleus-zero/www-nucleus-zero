@@ -13,17 +13,36 @@
 	{{ template "_internal/opengraph.html" . }}
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-	<link href="https://fonts.googleapis.com/css?family=Inter:wght@100;200;300;400" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400&display=swap" rel="stylesheet">
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZFJMRGGWLY"></script>
+
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-ZFJMRGGWLY');
+	</script>
+
+
+	<!-- Start of HubSpot Embed Code -->
+	<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/21394935.js"></script>
+	<!-- End of HubSpot Embed Code -->
 	{{ $medium := resources.Get "/css/medium.css" | resources.Fingerprint }}
 	<link rel="stylesheet" href="{{ $medium.RelPermalink | absURL }}" integrity="{{ $medium.Data.Integrity }}" crossorigin="anonymous">
 
 	{{ $additional := resources.Get "/css/additional.css" | resources.Fingerprint }}
 	<link rel="stylesheet" href="{{ $additional.RelPermalink | absURL }}" integrity="{{ $additional.Data.Integrity }}" crossorigin="anonymous">
-
 	<!-- Custom css -->
 	{{ range .Site.Params.customCSS -}}
 	{{ $style := resources.Get . }}
 	<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
 	{{- end }}
+	{{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+		{{ end -}}
 </head>
