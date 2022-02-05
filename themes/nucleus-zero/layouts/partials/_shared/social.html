@@ -3,6 +3,12 @@
     <a href="https://linkedin.com/in/{{.}}"><i class="fab fa-linkedin social-icon" aria-hidden="true"></i></a>
     {{ end }}
     {{ with .Site.Params.social.twitter }}
-    <a href="https://twitter.com/{{.}}"><i class="fab fa-twitter social-icon" aria-hidden="true"></i></a>
+    <a href="https://twitter.com/{{.}}"><i class="fab fa-twitter social-icon twitter" aria-hidden="true"></i></a>
+    {{ end }}
+    {{ with .Site.Params.social.github }}
+    <a href="https://github.com/{{.}}"><i class="fab fa-github social-icon github" aria-hidden="true"></i></a>
+    {{ end }}
+    {{ with .Site.Params.social.rss }}
+    <a href="https://www.nucleus-zero.com/{{.}}"><i class="fab fa-github social-icon rss" aria-hidden="true"></i></a>
     {{ end }}
 </section>
