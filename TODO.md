@@ -57,3 +57,5 @@ The thumbnail landing page is good I think but the actual single page feels a bi
 There are some good showcases and all have code.
 
 https://gohugo.io/showcase/
+
+# SEO - audit and fox things
