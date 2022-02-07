@@ -1,9 +1,14 @@
 
 ## nucleus-zero.com website
 
+
 The blog is built on a static site generator called [Hugo](https://gohugo.io/) which is written in GoLang. It also uses NPM for various build tasks and so you need Hugo and NPM and installed.
 
 **Step 1 - Setup**
+=======
+## Clone and Run
+
+`brew install npm hugo`
 
 	git clone https://github.com/nucleus-zero/blog.git
 	
@@ -18,12 +23,24 @@ The blog is built on a static site generator called [Hugo](https://gohugo.io/) w
 	npm install -g firebase-tools
 
 At this point you should have everything you need to run and deploy the blog.
+=======
+`hugo serve`
+
+`hugo -D` regenerates output HTML
+
+## Deploy
+
+`npm install -g firebase-tools`
 
 **Step 2 - Run and Dev Locally**
 
 Hugo runs locally from the CLI and hot loads so you can easily make changes.
 
 	hugo serve
+=======
+`firebase login`
+
+`hugo && firebase deploy` to deploy
 
 You will now have a fully functioning local version running at http://localhost:1313/
 
