@@ -1,4 +1,5 @@
 ---
-title: "Contact Me"
-layout: staticpage
+title: "About"
+layout: "about"
 ---
+About me page
