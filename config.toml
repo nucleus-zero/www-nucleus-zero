@@ -1,4 +1,4 @@
-baseURL = "https://nucleus-zero-blog.web.app/"
+baseURL = "https://nucleus-zero.com"
 languageCode = "en-us"
 theme = "nucleus-zero"
 summaryLength = 25
@@ -40,16 +40,25 @@ title = "Malicious code in the software supply chain."
     identifier = "blog"
     url = "/blog/"
 [[menu.main]]
+      name = "Timeline of Attacks"
+      identifier = "attacks"
+      weight = 100
+      url = "/timeline-of-attacks"
+[[menu.main]]
     name = "About"
     identifier = "about"
     weight = 100
     url = "/about"
-
 [[menu.main]]
       name = "Search"
       identifier = "search"
       weight = 100
       url = "/search"
+[[menu.main]]
+      name = "Stuff"
+      identifier = "links"
+      weight = 100
+      url = "/links"
 
 # SEO settings
     enableRobotsTXT = true

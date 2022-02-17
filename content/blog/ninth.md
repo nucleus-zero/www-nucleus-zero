@@ -1,5 +1,5 @@
 ---
-title: "Ninth"
+title: "Ninthy"
 slug : slug9
 date: 2018-10-07T11:40:14+02:00
 publishdate: 2018-10-07T11:40:14+02:00
