@@ -29,20 +29,25 @@ title = "Malicious code in the software supply chain."
   alertbar = true
 
 [params.social]
-  github = "nucleus-zero"
+  linkedin = "nucleus-zero"
   twitter = "nucleuszero"
   rss="index.xml"
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "Articles"
     weight = 100
+    identifier = "articles"
+    url = "/articles/"
+[[menu.main]]
+    name = "Events & Speaking"
+    weight = 200
     identifier = "blog"
-    url = "/blog/"
+    url = "/events/"
 [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 200
+    weight = 300
     url = "/about"
 
 # SEO settings

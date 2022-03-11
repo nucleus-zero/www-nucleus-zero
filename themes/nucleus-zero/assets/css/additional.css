@@ -16,6 +16,7 @@
 .social-icon{
     color: rgba(0,0,0,.44);
     font-size:1.5rem;
+    padding: 10px;
 }
 .github{
     color: rgba(0, 0, 0, 1);
@@ -23,7 +24,7 @@
     margin-left:5px;
 }
 .twitter{
-    color: rgba(0, 0, 0, 1);
+    color: rgba(29, 161, 242, 1);
         margin-right:5px;
         margin-left:5px;
 }
