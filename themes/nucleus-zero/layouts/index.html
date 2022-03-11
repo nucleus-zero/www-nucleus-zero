@@ -12,7 +12,6 @@
         </header>
 
         <section class="text-center">
-            {{- partial "_shared/subscribe.html" . -}}
             {{ with .Site.Params.index.subtitle }}
             <h3 class="index-sub">{{ . }}</h3>
             {{ end }}
@@ -21,8 +20,6 @@
             {{ end }}
         </section>
     </div>
-
-
         {{- partial "_shared/social.html" . -}}
 </div>
     {{ if isset .Site.Params.index "alertbar" }}

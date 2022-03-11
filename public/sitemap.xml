@@ -5,7 +5,7 @@
     <loc>https://nucleus-zero-blog.web.app/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/blog/</loc>
+    <loc>https://nucleus-zero-blog.web.app/articles/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
     <loc>https://nucleus-zero-blog.web.app/tags/drink/</loc>
@@ -47,7 +47,15 @@
     <loc>https://nucleus-zero-blog.web.app/slug1/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
   </url><url>
+    <loc>https://nucleus-zero-blog.web.app/events/events-and-speaking/</loc>
+  </url><url>
     <loc>https://nucleus-zero-blog.web.app/categories/</loc>
+  </url><url>
+    <loc>https://nucleus-zero-blog.web.app/newsletter/subscribe/</loc>
+  </url><url>
+    <loc>https://nucleus-zero-blog.web.app/events/</loc>
+  </url><url>
+    <loc>https://nucleus-zero-blog.web.app/newsletter/</loc>
   </url><url>
     <loc>https://nucleus-zero-blog.web.app/about/</loc>
   </url>

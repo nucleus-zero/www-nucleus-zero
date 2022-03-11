@@ -4,7 +4,6 @@
 	{{ hugo.Generator }}
 	{{ with .Site.Params.logo }}
 	{{- partial "_shared/favicons.html" . -}}
-  <!-- <link rel="icon" href="{{ . | urlize | relURL }}"> -->
 	{{ end }}
 	<title>{{ .Page.Title }} | {{ .Site.Title }}</title>
 	{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
@@ -16,25 +15,15 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400&display=swap" rel="stylesheet">
-
-	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZFJMRGGWLY"></script>
-
 	<script>
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
-
 	  gtag('config', 'G-ZFJMRGGWLY');
 	</script>
-
-
-	<!-- Start of HubSpot Embed Code -->
-	<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/21394935.js"></script>
-	<!-- End of HubSpot Embed Code -->
 	{{ $medium := resources.Get "/css/medium.css" | resources.Fingerprint }}
 	<link rel="stylesheet" href="{{ $medium.RelPermalink | absURL }}" integrity="{{ $medium.Data.Integrity }}" crossorigin="anonymous">
-
 	{{ $additional := resources.Get "/css/additional.css" | resources.Fingerprint }}
 	<link rel="stylesheet" href="{{ $additional.RelPermalink | absURL }}" integrity="{{ $additional.Data.Integrity }}" crossorigin="anonymous">
 	<!-- Custom css -->

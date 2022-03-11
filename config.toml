@@ -11,20 +11,19 @@ rssLimit = 20
 # blog
 
 [permalinks]
-  '/blog' = ':slug/'
+  '/articles' = ':slug/'
 
 [params]
   logo = "/images/logo.png"
 # mailchimpURL = "//my-account.mailchimp.com/my-subscriber-url"
 
 [params.author]
-  name = "James Bond"
+  name = "Mark Curphey"
   thumbnail = "/images/author.png"
-  description = "Creator of this blog."
 
 [params.index]
 title = "Malicious code in the software supply chain."
-  subtitle = '''
+  subtitle = '''Why and how the modern software supply chain is being used by cyber criminals and state sponsored hackers to break into companies, hold them ransom and steal their data. 
 '''
   alertbar = true
 
@@ -43,13 +42,17 @@ title = "Malicious code in the software supply chain."
     name = "Events & Speaking"
     weight = 200
     identifier = "blog"
-    url = "/events/"
+    url = "/events"
+[[menu.main]]
+    name = "Newsletter"
+    weight = 300
+    identifier = "newsletter"
+    url = "/newsletter"
 [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 300
+    weight = 400
     url = "/about"
-
 # SEO settings
     enableRobotsTXT = true
     canonifyURLs = true

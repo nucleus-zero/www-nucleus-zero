@@ -1,0 +1,52 @@
+
+.index-title{
+    color: rgba(0,0,0,.84);
+    margin-top:150px;
+}
+.index-sub{
+    color: rgba(0,0,0,.54);
+}
+.index-text{
+    margin-top:20px;
+    color: rgba(0,0,0,.44);
+}
+.index-image{
+    width: 400px;
+}
+.social-icon{
+    color: rgba(0,0,0,.44);
+    font-size:1.5rem;
+    padding: 10px;
+}
+.github{
+    color: rgba(0, 0, 0, 1);
+    margin-right:5px;
+    margin-left:5px;
+}
+.twitter{
+    color: rgba(29, 161, 242, 1);
+        margin-right:5px;
+        margin-left:5px;
+}
+.rss{
+    color: rgba(0, 0, 0, 1);
+        margin-right:5px;
+        margin-left:5px;
+}
+.clock{
+    margin-left: 25px;
+}
+.jumbotron.fortags a {
+    background: #1C9963 !important;
+}
+.error{
+    text-align: center !important;
+}
+@media(min-width: 769px){
+    .md-nopad-right{
+        padding-right: 0px !important;
+    }
+    .md-nopad-left{
+        padding-left: 0px !important;
+    }
+}
