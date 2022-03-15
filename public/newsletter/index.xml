@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newsletters on </title>
-    <link>https://nucleus-zero-blog.web.app/newsletter/</link>
+    <link>https://nucleus-zero.com/newsletter/</link>
     <description>Recent content in Newsletters on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Nucleus Zero 2022 - All rights reserved</copyright><atom:link href="https://nucleus-zero-blog.web.app/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Nucleus Zero 2022 - All rights reserved</copyright><atom:link href="https://nucleus-zero.com/newsletter/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact Me</title>
-      <link>https://nucleus-zero-blog.web.app/newsletter/subscribe/</link>
+      <title></title>
+      <link>https://nucleus-zero.com/newsletter/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nucleus-zero-blog.web.app/newsletter/subscribe/</guid>
+      <guid>https://nucleus-zero.com/newsletter/newsletter/</guid>
       <description></description>
     </item>
     

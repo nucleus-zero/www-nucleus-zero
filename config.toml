@@ -1,4 +1,4 @@
-baseURL = "https://nucleus-zero-blog.web.app/"
+baseURL = "https://nucleus-zero.com"
 languageCode = "en-us"
 theme = "nucleus-zero"
 summaryLength = 25
@@ -22,8 +22,8 @@ rssLimit = 20
   thumbnail = "/images/author.png"
 
 [params.index]
-title = "Malicious code in the software supply chain."
-  subtitle = '''Why and how the modern software supply chain is being used by cyber criminals and state sponsored hackers to break into companies, hold them ransom and steal their data. 
+title = "Security of the software supply chain."
+  subtitle = '''Why and how the modern software supply chain is being used by cyber criminals and state sponsored hackers to break into critical infrastructre,companies, hold them ransom and steal their data. 
 '''
   alertbar = true
 

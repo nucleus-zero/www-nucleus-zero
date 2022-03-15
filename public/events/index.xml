@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on </title>
-    <link>https://nucleus-zero-blog.web.app/events/</link>
+    <link>https://nucleus-zero.com/events/</link>
     <description>Recent content in Events on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Nucleus Zero 2022 - All rights reserved</copyright><atom:link href="https://nucleus-zero-blog.web.app/events/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Nucleus Zero 2022 - All rights reserved</copyright><atom:link href="https://nucleus-zero.com/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://nucleus-zero-blog.web.app/events/events-and-speaking/</link>
+      <link>https://nucleus-zero.com/events/events-and-speaking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nucleus-zero-blog.web.app/events/events-and-speaking/</guid>
+      <guid>https://nucleus-zero.com/events/events-and-speaking/</guid>
       <description></description>
     </item>
     

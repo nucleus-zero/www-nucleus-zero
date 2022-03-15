@@ -2,61 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nucleus-zero-blog.web.app/</loc>
+    <loc>https://nucleus-zero.com/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/articles/</loc>
+    <loc>https://nucleus-zero.com/articles/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/tags/drink/</loc>
+    <loc>https://nucleus-zero.com/tags/drink/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/tags/interesting/</loc>
+    <loc>https://nucleus-zero.com/tags/interesting/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/slug9/</loc>
+    <loc>https://nucleus-zero.com/slug9/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/tags/</loc>
+    <loc>https://nucleus-zero.com/tags/</loc>
     <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/slug8/</loc>
+    <loc>https://nucleus-zero.com/slug8/</loc>
     <lastmod>2018-10-07T11:40:11+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/slug7/</loc>
+    <loc>https://nucleus-zero.com/slug7/</loc>
     <lastmod>2018-10-07T11:39:29+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/sixthish/</loc>
+    <loc>https://nucleus-zero.com/sixthish/</loc>
     <lastmod>2018-10-07T11:39:25+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/slug5/</loc>
+    <loc>https://nucleus-zero.com/slug5/</loc>
     <lastmod>2018-10-07T11:39:22+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/slug4/</loc>
+    <loc>https://nucleus-zero.com/slug4/</loc>
     <lastmod>2018-10-07T11:39:16+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/tags/sca/</loc>
+    <loc>https://nucleus-zero.com/tags/sca/</loc>
     <lastmod>2018-10-07T11:39:13+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/slug3/</loc>
+    <loc>https://nucleus-zero.com/slug3/</loc>
     <lastmod>2018-10-07T11:39:13+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/slug2/</loc>
+    <loc>https://nucleus-zero.com/slug2/</loc>
     <lastmod>2018-10-07T11:39:10+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/slug1/</loc>
+    <loc>https://nucleus-zero.com/slug1/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/events/events-and-speaking/</loc>
+    <loc>https://nucleus-zero.com/about/about/</loc>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/categories/</loc>
+    <loc>https://nucleus-zero.com/events/events-and-speaking/</loc>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/newsletter/subscribe/</loc>
+    <loc>https://nucleus-zero.com/newsletter/newsletter/</loc>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/events/</loc>
+    <loc>https://nucleus-zero.com/about/</loc>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/newsletter/</loc>
+    <loc>https://nucleus-zero.com/categories/</loc>
   </url><url>
-    <loc>https://nucleus-zero-blog.web.app/about/</loc>
+    <loc>https://nucleus-zero.com/events/</loc>
+  </url><url>
+    <loc>https://nucleus-zero.com/newsletter/</loc>
   </url>
 </urlset>
