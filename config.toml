@@ -23,7 +23,7 @@ rssLimit = 20
 
 [params.index]
 title = "Security of the software supply chain."
-  subtitle = '''Why and how the modern software supply chain is being used by cyber criminals and state sponsored hackers to break into critical infrastructre,companies, hold them ransom and steal their data. 
+  subtitle = '''Why and how the modern software supply chain is being used by cyber criminals and state sponsored hackers to break into critical infrastructure, governments and companies, holding them to ransom and stealing their data. 
 '''
   alertbar = true
 
